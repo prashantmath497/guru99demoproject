@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [guru demo site]">
+  <listeners>
+    <listener class-name="com.gurudemo.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Test1(failed)">
+    <classes>
+      <class name="com.gurudemo.testcases.TC_Login_001">
+        <methods>
+          <include name="tearDown"/>
+          <include name="loginTest" invocation-numbers="0"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.gurudemo.testcases.TC_Login_001 -->
+      <class name="com.gurudemo.testcases.TC_CustomerEditPage">
+        <methods>
+          <include name="editCustomer"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.gurudemo.testcases.TC_CustomerEditPage -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [guru demo site] -->

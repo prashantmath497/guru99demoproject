@@ -1,0 +1,61 @@
+2020-05-27 15:10:21,142 - Guru99 Demos -INFO - URL is Open 
+2020-05-27 15:10:21,661 - Guru99 Demos -INFO - user id is passed
+2020-05-27 15:10:21,826 - Guru99 Demos -INFO - password is passed
+2020-05-27 15:10:29,695 - Guru99 Demos -INFO - clicked the login button 
+2020-05-27 15:10:29,725 - Guru99 Demos -INFO - login is passed 
+2020-05-27 15:10:31,417 - Guru99 Demos -INFO - logout is done 
+2020-05-27 15:10:31,459 - Guru99 Demos -INFO - alert is handled 
+2020-05-27 15:16:42,832 - Guru99 Demos -INFO - Opened the Base URL
+2020-05-27 15:16:45,508 - Guru99 Demos -INFO - Login done in Home Page 
+2020-05-27 15:17:05,330 - Guru99 Demos -INFO - Name is Passed
+2020-05-27 15:17:05,466 - Guru99 Demos -INFO - Gender is Selected 
+2020-05-27 15:17:05,659 - Guru99 Demos -INFO - Data Of Birth is Passed
+2020-05-27 15:17:05,833 - Guru99 Demos -INFO - Address is passed 
+2020-05-27 15:17:06,015 - Guru99 Demos -INFO - City  is Passed
+2020-05-27 15:17:06,226 - Guru99 Demos -INFO - State is Passed
+2020-05-27 15:17:06,451 - Guru99 Demos -INFO - Pincode  is Passed
+2020-05-27 15:17:06,714 - Guru99 Demos -INFO - Mobile contact  is Passed
+2020-05-27 15:17:06,965 - Guru99 Demos -INFO - Email is Passed
+2020-05-27 15:17:07,135 - Guru99 Demos -INFO - User password is Passed
+2020-05-27 15:17:09,487 - Guru99 Demos -INFO - Submitted the Button
+2020-05-27 15:17:14,559 - Guru99 Demos -INFO - Added new Customer info Successfully
+2020-05-27 15:17:14,559 - Guru99 Demos -INFO - TestCase is passed 
+2020-05-27 15:17:16,047 - Guru99 Demos -INFO - Home Page 
+2020-05-27 15:17:29,591 - Guru99 Demos -INFO - Application URL is Opened 
+2020-05-27 15:17:33,591 - Guru99 Demos -INFO - Logged in Application Home Page 
+2020-05-27 15:17:35,540 - Guru99 Demos -INFO - Edit Page is Openned 
+2020-05-27 15:17:38,057 - Guru99 Demos -INFO - Customer Deatails Opened 
+2020-05-27 15:17:38,410 - Guru99 Demos -INFO - Customer Address is Changed
+2020-05-27 15:17:39,257 - Guru99 Demos -INFO - Sumbitted the Data 
+2020-05-27 15:20:20,364 - Guru99 Demos -INFO - Opened the Base URL
+2020-05-27 15:20:24,505 - Guru99 Demos -INFO - Login done in Home Page 
+2020-05-27 15:20:36,311 - Guru99 Demos -INFO - Name is Passed
+2020-05-27 15:20:36,441 - Guru99 Demos -INFO - Gender is Selected 
+2020-05-27 15:20:36,643 - Guru99 Demos -INFO - Data Of Birth is Passed
+2020-05-27 15:20:36,828 - Guru99 Demos -INFO - Address is passed 
+2020-05-27 15:20:37,123 - Guru99 Demos -INFO - City  is Passed
+2020-05-27 15:20:37,330 - Guru99 Demos -INFO - State is Passed
+2020-05-27 15:20:37,536 - Guru99 Demos -INFO - Pincode  is Passed
+2020-05-27 15:20:37,735 - Guru99 Demos -INFO - Mobile contact  is Passed
+2020-05-27 15:20:38,019 - Guru99 Demos -INFO - Email is Passed
+2020-05-27 15:20:38,192 - Guru99 Demos -INFO - User password is Passed
+2020-05-27 15:20:52,996 - Guru99 Demos -INFO - Submitted the Button
+2020-05-27 15:20:58,069 - Guru99 Demos -INFO - Added new Customer info Successfully
+2020-05-27 15:20:58,070 - Guru99 Demos -INFO - TestCase is passed 
+2020-05-27 15:21:00,293 - Guru99 Demos -INFO - Home Page 
+2020-05-27 15:24:17,728 - Guru99 Demos -INFO - Opened the Base URL
+2020-05-27 15:24:20,334 - Guru99 Demos -INFO - Login done in Home Page 
+2020-05-27 15:24:33,115 - Guru99 Demos -INFO - Name is Passed
+2020-05-27 15:24:33,235 - Guru99 Demos -INFO - Gender is Selected 
+2020-05-27 15:24:33,438 - Guru99 Demos -INFO - Data Of Birth is Passed
+2020-05-27 15:24:33,624 - Guru99 Demos -INFO - Address is passed 
+2020-05-27 15:24:33,815 - Guru99 Demos -INFO - City  is Passed
+2020-05-27 15:24:34,051 - Guru99 Demos -INFO - State is Passed
+2020-05-27 15:24:34,260 - Guru99 Demos -INFO - Pincode  is Passed
+2020-05-27 15:24:34,460 - Guru99 Demos -INFO - Mobile contact  is Passed
+2020-05-27 15:24:34,814 - Guru99 Demos -INFO - Email is Passed
+2020-05-27 15:24:34,988 - Guru99 Demos -INFO - User password is Passed
+2020-05-27 15:24:36,264 - Guru99 Demos -INFO - Submitted the Button
+2020-05-27 15:24:41,337 - Guru99 Demos -INFO - Added new Customer info Successfully
+2020-05-27 15:24:41,338 - Guru99 Demos -INFO - TestCase is passed 
+2020-05-27 15:24:42,476 - Guru99 Demos -INFO - Home Page 

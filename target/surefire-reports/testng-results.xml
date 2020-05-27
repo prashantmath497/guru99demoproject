@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="guru demo site" duration-ms="43098" started-at="2020-05-27T09:54:04Z" finished-at="2020-05-27T09:54:47Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="43098" started-at="2020-05-27T09:54:04Z" finished-at="2020-05-27T09:54:47Z">
+      <class name="com.gurudemo.testcases.TC_NewCustomer_002">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.gurudemo.testcases.TC_NewCustomer_002@506e6d5e]" name="setUp" is-config="true" duration-ms="4028" started-at="2020-05-27T09:54:04Z" finished-at="2020-05-27T09:54:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.gurudemo.testcases.TC_NewCustomer_002@506e6d5e]" name="addNewCustomer" duration-ms="38564" started-at="2020-05-27T09:54:08Z" finished-at="2020-05-27T09:54:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.gurudemo.testcases.TC_NewCustomer_002@506e6d5e]" name="tearDown" is-config="true" duration-ms="147" started-at="2020-05-27T09:54:47Z" finished-at="2020-05-27T09:54:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.gurudemo.testcases.TC_NewCustomer_002 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- guru demo site -->
+</testng-results>
